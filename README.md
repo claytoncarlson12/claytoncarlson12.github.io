@@ -1,5 +1,6 @@
-# Clayton T. Carlson
 Minneapolis, MN | [clayton.carlson87@gmail.com](mailto:clayton.carlson87@gmail.com) | 952-836-9412 | [linkedin.com/in/ccarl12/](https://linkedin.com/in/ccarl12/)
+
+# NOTE: I will be updating this page with educational videos in the next few days. Stay tuned!
 
 ## Education
 
