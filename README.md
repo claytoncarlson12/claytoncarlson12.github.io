@@ -1,25 +1,32 @@
-Minneapolis, MN | [clayton.carlson87@gmail.com](mailto:clayton.carlson87@gmail.com) | 952-836-9412 | [linkedin.com/in/ccarl12/](https://linkedin.com/in/ccarl12/)
+## 👋 Bio
 
-# NOTE: I will be updating this page with educational videos in the next few days. Stay tuned!
+I’m Clayton Carlson, an ambitious new grad from the University of Minnesota, where I earned a Bachelor of Science in Computer Science with a focus on Data Science.
 
-## Education
+I’m passionate about machine learning and data analysis, and I’m excited to find a full-time position where I can further develop my skills and contribute to innovative projects.
+
+In the last year, I've had the opportunity to innovate in the realm of generative AI. This is my current obsession; it's cutting-edge and super powerful. I plan to apply my skills in industry to improve lives. I’m also proficient in languages like Java and Python, and I have hands-on experience with cloud technologies such as AWS and database management using PostgreSQL. I'm currently learning to use Snowflake, as it's relevant for anyone interested in ML.
+
+I was also a TA for a couple of years. I gave lectures once a week on linear algebra, and I loved it! I want to continue teaching throughout my career.
+
+## 🎬 Content
+### Answer Space Caching
+
+[![IMAGE](http://img.youtube.com/vi/QVL1ppTmWAA/0.jpg)](http://www.youtube.com/watch?v=QVL1ppTmWAA "Video Title")
+
+## 🎓 Education
 
 **University of Minnesota – Twin Cities**  
 Bachelor of Science, Computer Science with emphasis on Data Science  
 GPA: 3.78  
 Dean’s list for full undergraduate career
 
-## Objective
-
-Ambitious college graduate interested in machine learning with a generative AI emphasis, statistical data analysis, and software development. Seeking a full-time position in one or more of these fields.
-
-## Skills
+## 🖥️ Skills
 
 **Languages:** Java, Python, SQL, R, C, C++  
 **Software:** Snowflake, OpenAI APIs, AWS RDS, AWS Lambda, Terraform, PostgreSQL, Microsoft and Google Office Suites  
 **Operating Systems:** Linux, Windows
 
-## Work Experience
+## 🗂️ Work Experience
 
 ### IDeaS, Bloomington, MN  
 **Software Development Intern**  
@@ -40,7 +47,7 @@ _Fall 2022 – May 2024_
 - Mentored and taught linear algebra by hosting discussion sections and holding office hours.
 - Provided extra resources to encourage in-depth learning.
 
-## Projects / Relevant Coursework
+## 📈 Projects / Relevant Coursework
 
 ### CSCI 5541 Natural Language Model Research  
 _Spring 2024_  
@@ -56,7 +63,7 @@ _Spring 2023_
 
 **Courses:** Natural Language Processing | Database Systems | Statistical Machine Learning | Optimization for Machine Learning | Operations Research for Data Science | Theory of Statistics I, II | UI Design | Technical Writing
 
-## Extracurriculars
+## ⚽ Extracurriculars
 
 **Boy Scouts of America, Bloomington, MN**  
 Eagle Scout
@@ -68,3 +75,11 @@ _Jan 2024 – Present_
 **UMN Climbing Team, Minneapolis, MN**  
 Team Member  
 _Spring 2022 – May 2024_
+
+## 📞 Contact Me
+
+[clayton.carlson87@gmail.com](mailto:clayton.carlson87@gmail.com)
+
+952-836-9412
+
+[Linkedin](https://linkedin.com/in/ccarl12/)
